@@ -1,3 +1,3 @@
-FROM alpine:3.13.6
+FROM node
 
 RUN npm install -g @datadog/datadog-ci
